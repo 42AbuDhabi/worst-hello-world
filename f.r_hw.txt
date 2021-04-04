@@ -1,0 +1,19 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+  {fah-Hello World}
+
+      drawBox(pickrandom(H));
+      drawBox(pickrandom(e));
+      drawBox(pickrandom(l));
+      drawBox(pickrandom(l));
+      drawBox(pickrandom(o));
+newLine();
+      drawBox(pickrandom(w));
+      drawBox(pickrandom(o));
+      drawBox(pickrandom(r));
+      drawBox(pickrandom(l));
+      drawBox(pickrandom(d));
+
+      return 0;
+
+    }
